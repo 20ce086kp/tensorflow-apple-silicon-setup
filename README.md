@@ -3,16 +3,13 @@
 The supplied Shell Script will assist you in installing TensorFlow on Apple Silicon Machines.
 
 ## Dependencies
----
 * Installation of Miniforge3 is required.
 
 ## Useful Information
----
 * In the `HOME` directory, a new directory will be created to house the TensorFlow environment.
 * Conda Environment will have `Python` version `3.8`.
 
 ## How should installation be approached?
----
 * Make a file called `NAME.sh` in your `Downloads` directory, copy the script from `main.sh`, and then paste the script in `NAME.sh.` 
 * Give the script permission to run by typing the following command in the terminal window: `chmod +x /Downloads/NAME.sh`
 * Run: `sh ~/Downloads/NAME.sh DIR_NAME ENV_NAME`
@@ -20,5 +17,4 @@ The supplied Shell Script will assist you in installing TensorFlow on Apple Sili
   * ENV_NAME: Name of the `Conda` Environment
 
 ## References
----
 * [mrdbourke/m1-machine-learning-test](https://github.com/mrdbourke/m1-machine-learning-test)
