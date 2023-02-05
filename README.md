@@ -4,6 +4,8 @@ The supplied Shell Script will assist you in installing TensorFlow on Apple Sili
 
 ## Dependencies
 * Installation of Miniforge3 is required.
+<br>
+[How to setup Miniforge3 on Apple Silicon Machines?](https://github.com/20ce086kp/miniforge3-apple-silicon-setup)
 
 ## Useful Information
 * In the `HOME` directory, a new directory will be created to house the TensorFlow environment.
