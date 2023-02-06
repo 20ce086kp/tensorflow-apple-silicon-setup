@@ -1,6 +1,6 @@
 # Author: Kashyap Patel
 # Email: 20ce086.kashyappatel@gmail.com
-# Purpose: Apple Silicon Python Environment and TensorFlow Setup
+# Purpose: Apple Silicon Conda Environment and TensorFlow Setup
 
 # activating miniforge3 env
 source ~/miniforge3/bin/activate
